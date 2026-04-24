@@ -5,3 +5,5 @@
 требует библиотек.
 
 pip install rich
+
+t.me/rmsquadqq
